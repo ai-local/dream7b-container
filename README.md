@@ -1,3 +1,5 @@
+Video walkthrough: https://www.youtube.com/watch?v=xyLuihgD9BA
+
 This repository contains a Containerfile to build and run a container with the Dream 7B diffusion large language model (https://github.com/HKUNLP/Dream)
 
 For use with an NVIDIA GPU with the NVIDIA container toolkit installed and configured for use with Podman.
